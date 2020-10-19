@@ -13,3 +13,4 @@ Least_moves<-function(k){
   }
   print(i) 
 }
+# good work
