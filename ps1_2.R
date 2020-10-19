@@ -17,3 +17,8 @@ M3 <- matrix(0, nrow=nrow(M1), ncol = ncol(M2))
 print(M3)
 }
 Matrix_multip(M1,M2)
+
+# This work is also the same with Liu Yiwen
+# please write it by yourself
+# if you don`t want to be mistakenly recognize as coping other`s work, you should write your report earnestly！
+# make sure you understand each row of the code
