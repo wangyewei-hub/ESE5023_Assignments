@@ -16,3 +16,6 @@ else if (k==2){a[k,]=1}
  }
 return(a[k,])
 }
+# it is good to refer to some excellent works from others, through Internet or whatever approaches
+# basically you should understand it instead of only use it
+# if you don`t want to explain it with you code, you should write down your understandings in your report
