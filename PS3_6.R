@@ -26,3 +26,6 @@ plot(cpus_test$perf, cpus_predict)
 mean_bias<-(mean(cpus_predict) - mean(cpus_test$perf))/
   mean(cpus_test$perf)*100
 print(paste("The relative average deviation is",mean_bias,"%"))
+
+# good work
+# using "mean(cpus_predict - cpus_test$perf)" may be more suitable in this problem
