@@ -21,3 +21,4 @@ summary(model)
 plot(Elevation,Temperature)
 abline(model,col="blue")
 #观察可知拟合直线斜率为-9.3121，不是假想的-9.8
+# good work
