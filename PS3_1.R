@@ -17,3 +17,5 @@ boxplot(Unseeded_Rainfall,seeded_Rainfall,
 #1.2
 t.test(Unseeded_Rainfall, seeded_Rainfall)
 #可以看出人工降雨总体高于非人工降雨，但是从t检验来看，p=0.5376,在5%的水平上认为人工降雨与降雨量无关
+
+# good work
