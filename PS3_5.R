@@ -31,3 +31,4 @@ print(paste("The age of the universe is",age,"years old"))
 
 #4
 #数据中不同的速度对应着相同的距离，存在问题，提升数据精度可以得到更好的回归曲线，也能预测的更准
+# good work         
