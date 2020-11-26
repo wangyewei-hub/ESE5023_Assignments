@@ -62,3 +62,4 @@ bone_oxygen<-cbind(Bones,oxygen)
 bone_oxygen_tb1<-as_tibble(bone_oxygen)
 anova_one_way <- aov(oxygen ~ Bones, data = bone_oxygen_tb1)
 summary(anova_one_way)
+# the end
