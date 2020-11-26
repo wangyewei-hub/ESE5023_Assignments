@@ -25,3 +25,4 @@ anova_one_way <- aov(Chlorophyll ~ pH_factor, data =water_pH)
 summary(anova_one_way)
 #根据结果可得，p值远小于0.05，所以有信心说Chlorophyll浓度有变化,即ph会影响Chlorophyll的浓度变化
 
+# good work
