@@ -40,3 +40,8 @@ plot(x, y, main="Scatter plot", xlab="x", ylab="y")
 text(0.5, 0.5, "text at (0.5, 0.5)")
 abline(h=.5, v=0.5)
   
+# MingYANG noticed
+# these works are too basic and simple
+# also you missing image plot
+# I don`t see any plot in your report
+# the end
