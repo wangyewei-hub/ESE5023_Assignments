@@ -71,3 +71,8 @@ temperature_mean_sep<-wind_tb %>%
 Relative_bias <- (temperature_mean_sep-forecast_2months$mean[1])/temperature_mean_sep
 print(Relative_bias)
 #Relative bias = 0.01389,偏差很小
+
+# MingYANG noticed:
+# in your report, plot is missing
+# in 2.2, t-test can`t recognize noise distribution, you should use histogram to verify if it is a Gausian distribution
+# the end
