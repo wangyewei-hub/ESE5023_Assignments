@@ -71,3 +71,7 @@ srad_china <- mask(srad_china,China,na.rm=T)
 plot(srad_china,  main="srad in china", col=col)
 contour(srad_china, add=T,levels=16000, col="green")
 #从图中可以看出新疆适合建设光伏发电厂
+
+# MingYANG noticed:
+# add more detail about plot and procedures of your work
+# the end
