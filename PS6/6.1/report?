@@ -1,3 +1,33 @@
-@ MingYANG noticed:
-@ Where is your report?
-@ the end
+# MingYANG noticed:
+## 1  Where is your report?
+
+## 2
+# for M=[9.4889891 15.79952 9.2889578
+#        9.2889578 12.92396 5.8621211
+#        5.8621211 11.29471 14.04269
+#        1.9356927 18.60917 18.23201]
+#     N=[7.7234138 14.11560 1.4449604
+#        5.5518050 14.80624 14.04269
+#        0.5965542 18.58036 2.2660391]
+#     MN=M*N= [166.5446  540.4664  256.6281
+#              146.9908  431.3948  208.1931
+#              116.3588  510.8978  198.8999
+#              129.1410  641.6126  305.4343]
+# or MN=166.5446
+#       146.9908
+#       116.3588
+#       129.1410
+#       540.4664 
+#       431.3948  
+#       510.8978 
+#       641.6126  
+#       256.6281
+#       208.1931
+#       198.8999
+#       305.4343
+# in fortran, the matrix is read by column
+
+# the answer you gave is not right in quantity.
+# (1)maybe you didn`t figure out the meaning of matmul
+# (2)you have wrong with understanding M*N, that is not M·N and M×N
+# the end
